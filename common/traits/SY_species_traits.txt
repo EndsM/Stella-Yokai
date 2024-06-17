@@ -1,0 +1,14 @@
+# Yokai Types
+## These are defining different types of Yokai
+## such as nature Yokai, Yokai that born from the nature. Fear Yokai, Yokai that bron from fear of other species
+## Gives certain gaming mechanics, usually no bonus will attached
+trait_nature_yokai = {
+	cost = 0
+	# Make it displayed way above the traits
+	sorting_priority = 20
+}
+
+# Yokai Species
+## These define the species/breed of the Yokai
+## such as Oni, Tengu, etc.
+## Gives some minor bonus, and unlock certain Yokai traits
