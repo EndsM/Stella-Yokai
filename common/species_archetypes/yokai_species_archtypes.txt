@@ -1,4 +1,5 @@
 YOKAI = {
+	# These are biological's default value for these properties
 	species_trait_points = 2
 	species_max_traits = 5
 	inherit_traits_from = {
